@@ -1,0 +1,15 @@
+input
+{
+    height: 85px;
+    width: 230px;
+}
+
+.search
+{
+    -webkit-appearance: none;
+    line-height: 30px;
+    border: none;
+    outline: none;
+    margin-bottom: 30px;
+    padding: 10px;
+}
